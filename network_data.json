@@ -1,0 +1,2053 @@
+[
+  {
+    "en": "OSI reference model",
+    "zh": "OSI 参考模型",
+    "group": "一、网络体系结构",
+    "ipa": "/oʊ es aɪ/ /ɹˈɛfɹəns/ /mˈɒdəl/",
+    "audio": "audio/osi_reference_model.mp3"
+  },
+  {
+    "en": "physical layer",
+    "zh": "物理层",
+    "group": "一、网络体系结构",
+    "ipa": "/fˈɪzɪkəl/ /ˈɫeɪɝ/",
+    "audio": "audio/physical_layer.mp3"
+  },
+  {
+    "en": "data link layer",
+    "zh": "数据链路层",
+    "group": "一、网络体系结构",
+    "ipa": "/dˈeɪtə/ /lˈɪŋk/ /ˈɫeɪɝ/",
+    "audio": "audio/data_link_layer.mp3"
+  },
+  {
+    "en": "network layer",
+    "zh": "网络层",
+    "group": "一、网络体系结构",
+    "ipa": "/nˈɛtwɜːk/ /ˈɫeɪɝ/",
+    "audio": "audio/network_layer.mp3"
+  },
+  {
+    "en": "transport layer",
+    "zh": "传输层",
+    "group": "一、网络体系结构",
+    "ipa": "/ˈtɹænspɔɹt/ /ˈɫeɪɝ/",
+    "audio": "audio/transport_layer.mp3"
+  },
+  {
+    "en": "session layer",
+    "zh": "会话层",
+    "group": "一、网络体系结构",
+    "ipa": "/sˈɛʃən/ /ˈɫeɪɝ/",
+    "audio": "audio/session_layer.mp3"
+  },
+  {
+    "en": "presentation layer",
+    "zh": "表示层",
+    "group": "一、网络体系结构",
+    "ipa": "/pɹˌɛzəntˈeɪʃən/ /ˈɫeɪɝ/",
+    "audio": "audio/presentation_layer.mp3"
+  },
+  {
+    "en": "application layer",
+    "zh": "应用层",
+    "group": "一、网络体系结构",
+    "ipa": "/ˌæplɪkˈeɪʃən/ /ˈɫeɪɝ/",
+    "audio": "audio/application_layer.mp3"
+  },
+  {
+    "en": "TCP/IP model",
+    "zh": "TCP/IP 模型",
+    "group": "一、网络体系结构",
+    "ipa": "/tiː siː piː/ /ˈaɪˈpi/ /mˈɒdəl/",
+    "audio": "audio/tcp_ip_model.mp3"
+  },
+  {
+    "en": "encapsulation",
+    "zh": "封装",
+    "group": "一、网络体系结构",
+    "ipa": "/ɛnkˌæpsuːlˈeɪʃən/",
+    "audio": "audio/encapsulation.mp3"
+  },
+  {
+    "en": "decapsulation",
+    "zh": "解封装",
+    "group": "一、网络体系结构",
+    "ipa": "/diːkæpˈsjuːləʃən/",
+    "audio": "audio/decapsulation.mp3"
+  },
+  {
+    "en": "protocol",
+    "zh": "协议",
+    "group": "一、网络体系结构",
+    "ipa": "/pɹˈəʊtəkˌɒl/",
+    "audio": "audio/protocol.mp3"
+  },
+  {
+    "en": "interface",
+    "zh": "接口",
+    "group": "一、网络体系结构",
+    "ipa": "/ˈɪntəfˌeɪs/",
+    "audio": "audio/interface.mp3"
+  },
+  {
+    "en": "service",
+    "zh": "服务",
+    "group": "一、网络体系结构",
+    "ipa": "/sˈɜːvɪs/",
+    "audio": "audio/service.mp3"
+  },
+  {
+    "en": "peer entity",
+    "zh": "对等实体",
+    "group": "一、网络体系结构",
+    "ipa": "/ˈpɪɹ/ /ˈɛntɪti/",
+    "audio": "audio/peer_entity.mp3"
+  },
+  {
+    "en": "connection-oriented",
+    "zh": "面向连接",
+    "group": "一、网络体系结构",
+    "ipa": "/kənˈɛkʃən/ /ˈɔːɹiəntɪd/",
+    "audio": "audio/connection_oriented.mp3"
+  },
+  {
+    "en": "connectionless",
+    "zh": "无连接",
+    "group": "一、网络体系结构",
+    "ipa": "/kəˈnekʃənləs/",
+    "audio": "audio/connectionless.mp3"
+  },
+  {
+    "en": "reliable",
+    "zh": "可靠的",
+    "group": "一、网络体系结构",
+    "ipa": "/ɹɪlˈaɪəbəl/",
+    "audio": "audio/reliable.mp3"
+  },
+  {
+    "en": "unreliable",
+    "zh": "不可靠的",
+    "group": "一、网络体系结构",
+    "ipa": "/ˌʌnɹɪlˈaɪəbəl/",
+    "audio": "audio/unreliable.mp3"
+  },
+  {
+    "en": "flow control",
+    "zh": "流量控制",
+    "group": "一、网络体系结构",
+    "ipa": "/flˈəʊ/ /kəntɹˈəʊl/",
+    "audio": "audio/flow_control.mp3"
+  },
+  {
+    "en": "error control",
+    "zh": "差错控制",
+    "group": "一、网络体系结构",
+    "ipa": "/ˈɛɹə/ /kəntɹˈəʊl/",
+    "audio": "audio/error_control.mp3"
+  },
+  {
+    "en": "congestion control",
+    "zh": "拥塞控制",
+    "group": "一、网络体系结构",
+    "ipa": "/kəndʒˈɛstʃən/ /kəntɹˈəʊl/",
+    "audio": "audio/congestion_control.mp3"
+  },
+  {
+    "en": "multiplexing",
+    "zh": "多路复用",
+    "group": "一、网络体系结构",
+    "ipa": "/ˈmʌltɪpleksɪŋ/",
+    "audio": "audio/multiplexing.mp3"
+  },
+  {
+    "en": "demultiplexing",
+    "zh": "多路分用",
+    "group": "一、网络体系结构",
+    "ipa": "/diːˈmʌltɪpleksɪŋ/",
+    "audio": "audio/demultiplexing.mp3"
+  },
+  {
+    "en": "PDU",
+    "zh": "Protocol Data Unit · 协议数据单元",
+    "group": "一、网络体系结构",
+    "ipa": "/piː diː juː/",
+    "audio": "audio/pdu.mp3"
+  },
+  {
+    "en": "SDU",
+    "zh": "Service Data Unit · 服务数据单元",
+    "group": "一、网络体系结构",
+    "ipa": "/es diː juː/",
+    "audio": "audio/sdu.mp3"
+  },
+  {
+    "en": "twisted pair",
+    "zh": "双绞线",
+    "group": "二、物理层与传输介质",
+    "ipa": "/twˈɪstɪd/ /pˈeə/",
+    "audio": "audio/twisted_pair.mp3"
+  },
+  {
+    "en": "coaxial cable",
+    "zh": "同轴电缆",
+    "group": "二、物理层与传输介质",
+    "ipa": "/ˈkoʊˈæksiəɫ/ /kˈeɪbəl/",
+    "audio": "audio/coaxial_cable.mp3"
+  },
+  {
+    "en": "optical fiber",
+    "zh": "光纤",
+    "group": "二、物理层与传输介质",
+    "ipa": "/ˈɒptɪkəl/ /ˈfaɪbɝ/",
+    "audio": "audio/optical_fiber.mp3"
+  },
+  {
+    "en": "single-mode fiber",
+    "zh": "单模光纤",
+    "group": "二、物理层与传输介质",
+    "ipa": "/sˈɪŋɡəl/ /mˈəʊd/ /ˈfaɪbɝ/",
+    "audio": "audio/single_mode_fiber.mp3"
+  },
+  {
+    "en": "multi-mode fiber",
+    "zh": "多模光纤",
+    "group": "二、物理层与传输介质",
+    "ipa": "/ˈməɫti/ /mˈəʊd/ /ˈfaɪbɝ/",
+    "audio": "audio/multi_mode_fiber.mp3"
+  },
+  {
+    "en": "UTP",
+    "zh": "非屏蔽双绞线",
+    "group": "二、物理层与传输介质",
+    "ipa": "/juː tiː piː/",
+    "audio": "audio/utp.mp3"
+  },
+  {
+    "en": "STP",
+    "zh": "Spanning Tree Protocol · 生成树协议",
+    "group": "二、物理层与传输介质",
+    "ipa": "/es tiː piː/",
+    "audio": "audio/stp.mp3"
+  },
+  {
+    "en": "connector",
+    "zh": "连接器",
+    "group": "二、物理层与传输介质",
+    "ipa": "/kənˈɛktə/",
+    "audio": "audio/connector.mp3"
+  },
+  {
+    "en": "transceiver",
+    "zh": "收发器",
+    "group": "二、物理层与传输介质",
+    "ipa": "/tɹænsˈiːvə/",
+    "audio": "audio/transceiver.mp3"
+  },
+  {
+    "en": "repeater",
+    "zh": "中继器",
+    "group": "二、物理层与传输介质",
+    "ipa": "/ɹɪpˈiːtə/",
+    "audio": "audio/repeater.mp3"
+  },
+  {
+    "en": "hub",
+    "zh": "集线器",
+    "group": "二、物理层与传输介质",
+    "ipa": "/hˈʌb/",
+    "audio": "audio/hub.mp3"
+  },
+  {
+    "en": "bandwidth",
+    "zh": "带宽",
+    "group": "二、物理层与传输介质",
+    "ipa": "/bˈændwɪdθ/",
+    "audio": "audio/bandwidth.mp3"
+  },
+  {
+    "en": "throughput",
+    "zh": "吞吐量",
+    "group": "二、物理层与传输介质",
+    "ipa": "/θɹˈuːpʊt/",
+    "audio": "audio/throughput.mp3"
+  },
+  {
+    "en": "latency / delay",
+    "zh": "延迟",
+    "group": "二、物理层与传输介质",
+    "ipa": "/lˈeɪtnsi/ /dɪlˈeɪ/",
+    "audio": "audio/latency_delay.mp3"
+  },
+  {
+    "en": "jitter",
+    "zh": "抖动",
+    "group": "二、物理层与传输介质",
+    "ipa": "/dʒˈɪtə/",
+    "audio": "audio/jitter.mp3"
+  },
+  {
+    "en": "attenuation",
+    "zh": "衰减",
+    "group": "二、物理层与传输介质",
+    "ipa": "/ətˌɛnjuːˈeɪʃən/",
+    "audio": "audio/attenuation.mp3"
+  },
+  {
+    "en": "crosstalk",
+    "zh": "串扰",
+    "group": "二、物理层与传输介质",
+    "ipa": "/kɹˈɒstɔːk/",
+    "audio": "audio/crosstalk.mp3"
+  },
+  {
+    "en": "noise",
+    "zh": "噪声",
+    "group": "二、物理层与传输介质",
+    "ipa": "/nˈɔɪz/",
+    "audio": "audio/noise.mp3"
+  },
+  {
+    "en": "modulation",
+    "zh": "调制",
+    "group": "二、物理层与传输介质",
+    "ipa": "/mˌɒdjʊlˈeɪʃən/",
+    "audio": "audio/modulation.mp3"
+  },
+  {
+    "en": "encoding",
+    "zh": "编码",
+    "group": "二、物理层与传输介质",
+    "ipa": "/ɛnkˈəʊdɪŋ/",
+    "audio": "audio/encoding.mp3"
+  },
+  {
+    "en": "baseband",
+    "zh": "基带",
+    "group": "二、物理层与传输介质",
+    "ipa": "/ˈbeɪsbænd/",
+    "audio": "audio/baseband.mp3"
+  },
+  {
+    "en": "broadband",
+    "zh": "宽带",
+    "group": "二、物理层与传输介质",
+    "ipa": "/bɹˈɔːdbænd/",
+    "audio": "audio/broadband.mp3"
+  },
+  {
+    "en": "frame",
+    "zh": "帧",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/fɹˈeɪm/",
+    "audio": "audio/frame.mp3"
+  },
+  {
+    "en": "MAC address",
+    "zh": "MAC 地址，介质访问控制地址",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/mˈæk/ /ˈæˌdɹɛs/",
+    "audio": "audio/mac_address.mp3"
+  },
+  {
+    "en": "LLC",
+    "zh": "Logical Link Control · 逻辑链路控制",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/ˌɛˌɫɛɫˌsi/",
+    "audio": "audio/llc.mp3"
+  },
+  {
+    "en": "Ethernet",
+    "zh": "以太网",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/ˈiθɝˌnɛt/",
+    "audio": "audio/ethernet.mp3"
+  },
+  {
+    "en": "CSMA/CD",
+    "zh": "Carrier Sense Multiple Access with Collision Detection · 载波监听多路访问/冲突检测",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/siː es em eɪ/ /ˌsiˈdi/",
+    "audio": "audio/csma_cd.mp3"
+  },
+  {
+    "en": "collision domain",
+    "zh": "冲突域",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/kəlˈɪʒən/ /dəmˈeɪn/",
+    "audio": "audio/collision_domain.mp3"
+  },
+  {
+    "en": "broadcast domain",
+    "zh": "广播域",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/bɹˈɔːdkɑːst/ /dəmˈeɪn/",
+    "audio": "audio/broadcast_domain.mp3"
+  },
+  {
+    "en": "switch",
+    "zh": "交换机",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/swˈɪtʃ/",
+    "audio": "audio/switch.mp3"
+  },
+  {
+    "en": "bridge",
+    "zh": "网桥",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/bɹˈɪdʒ/",
+    "audio": "audio/bridge.mp3"
+  },
+  {
+    "en": "VLAN",
+    "zh": "Virtual Local Area Network · 虚拟局域网",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/viː el eɪ en/",
+    "audio": "audio/vlan.mp3"
+  },
+  {
+    "en": "trunk",
+    "zh": "干道链路",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/tɹˈʌŋk/",
+    "audio": "audio/trunk.mp3"
+  },
+  {
+    "en": "Spanning Tree Protocol",
+    "zh": "生成树协议",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/spˈænɪŋ/ /tɹˈiː/ /pɹˈəʊtəkˌɒl/",
+    "audio": "audio/spanning_tree_protocol.mp3"
+  },
+  {
+    "en": "ARP",
+    "zh": "Address Resolution Protocol · 地址解析协议",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/ˈɑɹp/",
+    "audio": "audio/arp.mp3"
+  },
+  {
+    "en": "RARP",
+    "zh": "Reverse Address Resolution Protocol · 反向地址解析协议",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/ɑːr eɪ ɑːr piː/",
+    "audio": "audio/rarp.mp3"
+  },
+  {
+    "en": "proxy ARP",
+    "zh": "代理 ARP",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/pɹˈɒksi/ /ˈɑɹp/",
+    "audio": "audio/proxy_arp.mp3"
+  },
+  {
+    "en": "PPP",
+    "zh": "Point-to-Point Protocol · 点对点协议",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/piː piː piː/",
+    "audio": "audio/ppp.mp3"
+  },
+  {
+    "en": "HDLC",
+    "zh": "High-Level Data Link Control · 高级数据链路控制",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/eɪtʃ diː el siː/",
+    "audio": "audio/hdlc.mp3"
+  },
+  {
+    "en": "Frame Relay",
+    "zh": "帧中继",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/fɹˈeɪm/ /ˈɹiˌɫeɪ/",
+    "audio": "audio/frame_relay.mp3"
+  },
+  {
+    "en": "WLAN",
+    "zh": "Wireless Local Area Network · 无线局域网",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/ˈdʌbəljuː el eɪ en/",
+    "audio": "audio/wlan.mp3"
+  },
+  {
+    "en": "IEEE 802.11",
+    "zh": "IEEE 802.11 无线标准",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/ˌaɪˌtɹɪpɫəˈi/ /eɪt zɪərəʊ tuː pɔɪnt wʌn wʌn/",
+    "audio": "audio/ieee_802_11.mp3"
+  },
+  {
+    "en": "SSID",
+    "zh": "Service Set Identifier · 服务集标识",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/es es aɪ diː/",
+    "audio": "audio/ssid.mp3"
+  },
+  {
+    "en": "AP",
+    "zh": "Access Point · 接入点",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/ˌeɪˈpi/",
+    "audio": "audio/ap.mp3"
+  },
+  {
+    "en": "BSS",
+    "zh": "Basic Service Set · 基本服务集",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/biː es es/",
+    "audio": "audio/bss.mp3"
+  },
+  {
+    "en": "ESS",
+    "zh": "Extended Service Set · 扩展服务集",
+    "group": "三、数据链路层与局域网",
+    "ipa": "/ˈɛs/",
+    "audio": "audio/ess.mp3"
+  },
+  {
+    "en": "packet",
+    "zh": "数据包",
+    "group": "四、网络层",
+    "ipa": "/pˈækɪt/",
+    "audio": "audio/packet.mp3"
+  },
+  {
+    "en": "IP address",
+    "zh": "IP 地址",
+    "group": "四、网络层",
+    "ipa": "/ˈaɪˈpi/ /ˈæˌdɹɛs/",
+    "audio": "audio/ip_address.mp3"
+  },
+  {
+    "en": "subnet mask",
+    "zh": "子网掩码",
+    "group": "四、网络层",
+    "ipa": "/mˈɑːsk/",
+    "audio": "audio/subnet_mask.mp3"
+  },
+  {
+    "en": "subnetting",
+    "zh": "子网划分",
+    "group": "四、网络层",
+    "ipa": "/ˈsʌbnɛtɪŋ/",
+    "audio": "audio/subnetting.mp3"
+  },
+  {
+    "en": "CIDR",
+    "zh": "Classless Inter-Domain Routing · 无类域间路由",
+    "group": "四、网络层",
+    "ipa": "/siː aɪ diː ɑːr/",
+    "audio": "audio/cidr.mp3"
+  },
+  {
+    "en": "VLSM",
+    "zh": "Variable Length Subnet Mask · 可变长子网掩码",
+    "group": "四、网络层",
+    "ipa": "/viː el es em/",
+    "audio": "audio/vlsm.mp3"
+  },
+  {
+    "en": "IPv4",
+    "zh": "Internet Protocol version 4 · 互联网协议第4版",
+    "group": "四、网络层",
+    "ipa": "/ˌaɪ piː viː fɔː/",
+    "audio": "audio/ipv4.mp3"
+  },
+  {
+    "en": "IPv6",
+    "zh": "Internet Protocol version 6 · 互联网协议第6版",
+    "group": "四、网络层",
+    "ipa": "/ˌaɪ piː viː sɪks/",
+    "audio": "audio/ipv6.mp3"
+  },
+  {
+    "en": "routing",
+    "zh": "路由",
+    "group": "四、网络层",
+    "ipa": "/ˈɹaʊtɪŋ/",
+    "audio": "audio/routing.mp3"
+  },
+  {
+    "en": "routing table",
+    "zh": "路由表",
+    "group": "四、网络层",
+    "ipa": "/ˈɹaʊtɪŋ/ /tˈeɪbəl/",
+    "audio": "audio/routing_table.mp3"
+  },
+  {
+    "en": "static route",
+    "zh": "静态路由",
+    "group": "四、网络层",
+    "ipa": "/stˈætɪk/ /ɹˈuːt/",
+    "audio": "audio/static_route.mp3"
+  },
+  {
+    "en": "default route",
+    "zh": "默认路由",
+    "group": "四、网络层",
+    "ipa": "/dɪfˈɒlt/ /ɹˈuːt/",
+    "audio": "audio/default_route.mp3"
+  },
+  {
+    "en": "dynamic routing",
+    "zh": "动态路由",
+    "group": "四、网络层",
+    "ipa": "/daɪnˈæmɪk/ /ˈɹaʊtɪŋ/",
+    "audio": "audio/dynamic_routing.mp3"
+  },
+  {
+    "en": "router",
+    "zh": "路由器",
+    "group": "四、网络层",
+    "ipa": "/ˈɹaʊtɝ/",
+    "audio": "audio/router.mp3"
+  },
+  {
+    "en": "next hop",
+    "zh": "下一跳",
+    "group": "四、网络层",
+    "ipa": "/nˈɛkst/ /hˈɒp/",
+    "audio": "audio/next_hop.mp3"
+  },
+  {
+    "en": "metric",
+    "zh": "度量值",
+    "group": "四、网络层",
+    "ipa": "/mˈɛtɹɪk/",
+    "audio": "audio/metric.mp3"
+  },
+  {
+    "en": "administrative distance",
+    "zh": "管理距离",
+    "group": "四、网络层",
+    "ipa": "/ədmˈɪnɪstɹətˌɪv/ /dˈɪstəns/",
+    "audio": "audio/administrative_distance.mp3"
+  },
+  {
+    "en": "RIP",
+    "zh": "Routing Information Protocol · 路由信息协议",
+    "group": "四、网络层",
+    "ipa": "/ɹˈɪp/",
+    "audio": "audio/rip.mp3"
+  },
+  {
+    "en": "OSPF",
+    "zh": "Open Shortest Path First · 开放最短路径优先",
+    "group": "四、网络层",
+    "ipa": "/oʊ es piː ef/",
+    "audio": "audio/ospf.mp3"
+  },
+  {
+    "en": "IS-IS",
+    "zh": "Intermediate System to Intermediate System · 中间系统到中间系统",
+    "group": "四、网络层",
+    "ipa": "/ˈɪz/ /ˈɪz/",
+    "audio": "audio/is_is.mp3"
+  },
+  {
+    "en": "BGP",
+    "zh": "Border Gateway Protocol · 边界网关协议",
+    "group": "四、网络层",
+    "ipa": "/biː dʒiː piː/",
+    "audio": "audio/bgp.mp3"
+  },
+  {
+    "en": "EIGRP",
+    "zh": "Enhanced Interior Gateway Routing Protocol · 增强型内部网关路由协议",
+    "group": "四、网络层",
+    "ipa": "/iː aɪ dʒiː ɑːr piː/",
+    "audio": "audio/eigrp.mp3"
+  },
+  {
+    "en": "ICMP",
+    "zh": "Internet Control Message Protocol · 互联网控制报文协议",
+    "group": "四、网络层",
+    "ipa": "/aɪ siː em piː/",
+    "audio": "audio/icmp.mp3"
+  },
+  {
+    "en": "IGMP",
+    "zh": "Internet Group Management Protocol · 互联网组管理协议",
+    "group": "四、网络层",
+    "ipa": "/aɪ dʒiː em piː/",
+    "audio": "audio/igmp.mp3"
+  },
+  {
+    "en": "DHCP",
+    "zh": "Dynamic Host Configuration Protocol · 动态主机配置协议",
+    "group": "四、网络层",
+    "ipa": "/diː eɪtʃ siː piː/",
+    "audio": "audio/dhcp.mp3"
+  },
+  {
+    "en": "DNS",
+    "zh": "Domain Name System · 域名系统",
+    "group": "四、网络层",
+    "ipa": "/ˌdiˌɛˈnɛs/",
+    "audio": "audio/dns.mp3"
+  },
+  {
+    "en": "NAT",
+    "zh": "Network Address Translation · 网络地址转换",
+    "group": "四、网络层",
+    "ipa": "/ˈnæt/",
+    "audio": "audio/nat.mp3"
+  },
+  {
+    "en": "PAT",
+    "zh": "Port Address Translation · 端口地址转换",
+    "group": "四、网络层",
+    "ipa": "/pˈæt/",
+    "audio": "audio/pat.mp3"
+  },
+  {
+    "en": "VPN",
+    "zh": "Virtual Private Network · 虚拟专用网络",
+    "group": "四、网络层",
+    "ipa": "/viː piː en/",
+    "audio": "audio/vpn.mp3"
+  },
+  {
+    "en": "segment",
+    "zh": "报文段",
+    "group": "五、传输层",
+    "ipa": "/ˈsɛɡmənt/",
+    "audio": "audio/segment.mp3"
+  },
+  {
+    "en": "datagram",
+    "zh": "数据报",
+    "group": "五、传输层",
+    "ipa": "/ˈdeɪtəɡræm/",
+    "audio": "audio/datagram.mp3"
+  },
+  {
+    "en": "TCP",
+    "zh": "Transmission Control Protocol · 传输控制协议",
+    "group": "五、传输层",
+    "ipa": "/tiː siː piː/",
+    "audio": "audio/tcp.mp3"
+  },
+  {
+    "en": "UDP",
+    "zh": "User Datagram Protocol · 用户数据报协议",
+    "group": "五、传输层",
+    "ipa": "/juː diː piː/",
+    "audio": "audio/udp.mp3"
+  },
+  {
+    "en": "port",
+    "zh": "端口",
+    "group": "五、传输层",
+    "ipa": "/pˈɔːt/",
+    "audio": "audio/port.mp3"
+  },
+  {
+    "en": "socket",
+    "zh": "套接字",
+    "group": "五、传输层",
+    "ipa": "/sˈɒkɪt/",
+    "audio": "audio/socket.mp3"
+  },
+  {
+    "en": "three-way handshake",
+    "zh": "三次握手",
+    "group": "五、传输层",
+    "ipa": "/θɹˈiː/ /wˈeɪ/ /hˈændʃeɪk/",
+    "audio": "audio/three_way_handshake.mp3"
+  },
+  {
+    "en": "sequence number",
+    "zh": "序号",
+    "group": "五、传输层",
+    "ipa": "/sˈiːkwəns/ /ˈnəmbɝ/",
+    "audio": "audio/sequence_number.mp3"
+  },
+  {
+    "en": "acknowledgment",
+    "zh": "确认",
+    "group": "五、传输层",
+    "ipa": "/əknˈɒlɪdʒmənt/",
+    "audio": "audio/acknowledgment.mp3"
+  },
+  {
+    "en": "window",
+    "zh": "窗口",
+    "group": "五、传输层",
+    "ipa": "/wˈɪndəʊ/",
+    "audio": "audio/window.mp3"
+  },
+  {
+    "en": "sliding window",
+    "zh": "滑动窗口",
+    "group": "五、传输层",
+    "ipa": "/slˈaɪdɪŋ/ /wˈɪndəʊ/",
+    "audio": "audio/sliding_window.mp3"
+  },
+  {
+    "en": "retransmission",
+    "zh": "重传",
+    "group": "五、传输层",
+    "ipa": "/ˌɹitɹænzˈmɪʃən/",
+    "audio": "audio/retransmission.mp3"
+  },
+  {
+    "en": "timeout",
+    "zh": "超时",
+    "group": "五、传输层",
+    "ipa": "/tˈaɪmaʊt/",
+    "audio": "audio/timeout.mp3"
+  },
+  {
+    "en": "SYN",
+    "zh": "同步标志",
+    "group": "五、传输层",
+    "ipa": "/ˈsɪn/",
+    "audio": "audio/syn.mp3"
+  },
+  {
+    "en": "ACK",
+    "zh": "确认标志",
+    "group": "五、传输层",
+    "ipa": "/ˈæk/",
+    "audio": "audio/ack.mp3"
+  },
+  {
+    "en": "FIN",
+    "zh": "结束标志",
+    "group": "五、传输层",
+    "ipa": "/fˈɪn/",
+    "audio": "audio/fin.mp3"
+  },
+  {
+    "en": "RST",
+    "zh": "复位标志",
+    "group": "五、传输层",
+    "ipa": "/ɑːr es tiː/",
+    "audio": "audio/rst.mp3"
+  },
+  {
+    "en": "congestion avoidance",
+    "zh": "拥塞避免",
+    "group": "五、传输层",
+    "ipa": "/kəndʒˈɛstʃən/ /əvˈɔɪdəns/",
+    "audio": "audio/congestion_avoidance.mp3"
+  },
+  {
+    "en": "slow start",
+    "zh": "慢启动",
+    "group": "五、传输层",
+    "ipa": "/slˈəʊ/ /stˈɑːt/",
+    "audio": "audio/slow_start.mp3"
+  },
+  {
+    "en": "fast retransmit",
+    "zh": "快速重传",
+    "group": "五、传输层",
+    "ipa": "/fˈɑːst/",
+    "audio": "audio/fast_retransmit.mp3"
+  },
+  {
+    "en": "HTTP",
+    "zh": "Hypertext Transfer Protocol · 超文本传输协议",
+    "group": "六、应用层",
+    "ipa": "/ˌeɪtʃˌtiˌtiˈpi/",
+    "audio": "audio/http.mp3"
+  },
+  {
+    "en": "HTTPS",
+    "zh": "Hypertext Transfer Protocol Secure · 安全超文本传输协议",
+    "group": "六、应用层",
+    "ipa": "/eɪtʃ tiː tiː piː es/",
+    "audio": "audio/https.mp3"
+  },
+  {
+    "en": "FTP",
+    "zh": "File Transfer Protocol · 文件传输协议",
+    "group": "六、应用层",
+    "ipa": "/ˌɛfˌtiˈpi/",
+    "audio": "audio/ftp.mp3"
+  },
+  {
+    "en": "TFTP",
+    "zh": "Trivial File Transfer Protocol · 简单文件传输协议",
+    "group": "六、应用层",
+    "ipa": "/tiː ef tiː piː/",
+    "audio": "audio/tftp.mp3"
+  },
+  {
+    "en": "SMTP",
+    "zh": "Simple Mail Transfer Protocol · 简单邮件传输协议",
+    "group": "六、应用层",
+    "ipa": "/es em tiː piː/",
+    "audio": "audio/smtp.mp3"
+  },
+  {
+    "en": "POP3",
+    "zh": "Post Office Protocol version 3 · 邮局协议第3版",
+    "group": "六、应用层",
+    "ipa": "/piː oʊ piː θriː/",
+    "audio": "audio/pop3.mp3"
+  },
+  {
+    "en": "IMAP",
+    "zh": "Internet Message Access Protocol · 互联网消息访问协议",
+    "group": "六、应用层",
+    "ipa": "/aɪ em eɪ piː/",
+    "audio": "audio/imap.mp3"
+  },
+  {
+    "en": "SNMP",
+    "zh": "Simple Network Management Protocol · 简单网络管理协议",
+    "group": "六、应用层",
+    "ipa": "/es en em piː/",
+    "audio": "audio/snmp.mp3"
+  },
+  {
+    "en": "Telnet",
+    "zh": "远程登录协议",
+    "group": "六、应用层",
+    "ipa": "/ˈtelnɛt/",
+    "audio": "audio/telnet.mp3"
+  },
+  {
+    "en": "SSH",
+    "zh": "Secure Shell · 安全外壳协议",
+    "group": "六、应用层",
+    "ipa": "/ˌɛsˌɛsˈeɪtʃ/",
+    "audio": "audio/ssh.mp3"
+  },
+  {
+    "en": "NFS",
+    "zh": "Network File System · 网络文件系统",
+    "group": "六、应用层",
+    "ipa": "/en ef es/",
+    "audio": "audio/nfs.mp3"
+  },
+  {
+    "en": "SMB",
+    "zh": "Server Message Block · 服务器消息块",
+    "group": "六、应用层",
+    "ipa": "/es em biː/",
+    "audio": "audio/smb.mp3"
+  },
+  {
+    "en": "URL",
+    "zh": "Uniform Resource Locator · 统一资源定位符",
+    "group": "六、应用层",
+    "ipa": "/ˈʊɹɫ/",
+    "audio": "audio/url.mp3"
+  },
+  {
+    "en": "URI",
+    "zh": "Uniform Resource Identifier · 统一资源标识符",
+    "group": "六、应用层",
+    "ipa": "/ˈjɝi/",
+    "audio": "audio/uri.mp3"
+  },
+  {
+    "en": "FQDN",
+    "zh": "Fully Qualified Domain Name · 完全限定域名",
+    "group": "六、应用层",
+    "ipa": "/ef kjuː diː en/",
+    "audio": "audio/fqdn.mp3"
+  },
+  {
+    "en": "client-server",
+    "zh": "客户端-服务器",
+    "group": "六、应用层",
+    "ipa": "/klˈaɪənt/ /sˈɜːvə/",
+    "audio": "audio/client_server.mp3"
+  },
+  {
+    "en": "peer-to-peer",
+    "zh": "对等网络",
+    "group": "六、应用层",
+    "ipa": "/ˈpɪɹ/ /tˈuː/ /ˈpɪɹ/",
+    "audio": "audio/peer_to_peer.mp3"
+  },
+  {
+    "en": "API",
+    "zh": "Application Programming Interface · 应用程序编程接口",
+    "group": "六、应用层",
+    "ipa": "/ˌeɪˌpiˈaɪ/",
+    "audio": "audio/api.mp3"
+  },
+  {
+    "en": "firewall",
+    "zh": "防火墙",
+    "group": "七、网络安全",
+    "ipa": "/fˈaɪəwɔːl/",
+    "audio": "audio/firewall.mp3"
+  },
+  {
+    "en": "IDS",
+    "zh": "Intrusion Detection System · 入侵检测系统",
+    "group": "七、网络安全",
+    "ipa": "/ˈaɪdz/",
+    "audio": "audio/ids.mp3"
+  },
+  {
+    "en": "IPS",
+    "zh": "Intrusion Prevention System · 入侵防御系统",
+    "group": "七、网络安全",
+    "ipa": "/aɪ piː es/",
+    "audio": "audio/ips.mp3"
+  },
+  {
+    "en": "antivirus",
+    "zh": "防病毒",
+    "group": "七、网络安全",
+    "ipa": "/ˌæntɪvˈaɪɹəs/",
+    "audio": "audio/antivirus.mp3"
+  },
+  {
+    "en": "authentication",
+    "zh": "认证",
+    "group": "七、网络安全",
+    "ipa": "/ɔːθˌɛntɪkˈeɪʃən/",
+    "audio": "audio/authentication.mp3"
+  },
+  {
+    "en": "authorization",
+    "zh": "授权",
+    "group": "七、网络安全",
+    "ipa": "/ˌɔθɝəˈzeɪʃən/",
+    "audio": "audio/authorization.mp3"
+  },
+  {
+    "en": "accounting",
+    "zh": "计费/审计",
+    "group": "七、网络安全",
+    "ipa": "/əkˈaʊntɪŋ/",
+    "audio": "audio/accounting.mp3"
+  },
+  {
+    "en": "AAA",
+    "zh": "认证、授权、计费",
+    "group": "七、网络安全",
+    "ipa": "/ˌtɹɪpəˈɫeɪ/",
+    "audio": "audio/aaa.mp3"
+  },
+  {
+    "en": "encryption",
+    "zh": "加密",
+    "group": "七、网络安全",
+    "ipa": "/ɛnkɹˈɪpʃən/",
+    "audio": "audio/encryption.mp3"
+  },
+  {
+    "en": "decryption",
+    "zh": "解密",
+    "group": "七、网络安全",
+    "ipa": "/dɪkɹˈɪpʃən/",
+    "audio": "audio/decryption.mp3"
+  },
+  {
+    "en": "symmetric encryption",
+    "zh": "对称加密",
+    "group": "七、网络安全",
+    "ipa": "/sɪmˈɛtɹɪk/ /ɛnkɹˈɪpʃən/",
+    "audio": "audio/symmetric_encryption.mp3"
+  },
+  {
+    "en": "asymmetric encryption",
+    "zh": "非对称加密",
+    "group": "七、网络安全",
+    "ipa": "/ˌeɪsɪmˈɛtɹɪk/ /ɛnkɹˈɪpʃən/",
+    "audio": "audio/asymmetric_encryption.mp3"
+  },
+  {
+    "en": "public key",
+    "zh": "公钥",
+    "group": "七、网络安全",
+    "ipa": "/pˈʌblɪk/ /kˈiː/",
+    "audio": "audio/public_key.mp3"
+  },
+  {
+    "en": "private key",
+    "zh": "私钥",
+    "group": "七、网络安全",
+    "ipa": "/pɹˈaɪvət/ /kˈiː/",
+    "audio": "audio/private_key.mp3"
+  },
+  {
+    "en": "digital signature",
+    "zh": "数字签名",
+    "group": "七、网络安全",
+    "ipa": "/dˈɪdʒɪtəl/ /sˈɪɡnɪtʃə/",
+    "audio": "audio/digital_signature.mp3"
+  },
+  {
+    "en": "digital certificate",
+    "zh": "数字证书",
+    "group": "七、网络安全",
+    "ipa": "/dˈɪdʒɪtəl/ /sɝˈtɪfɪkət/",
+    "audio": "audio/digital_certificate.mp3"
+  },
+  {
+    "en": "CA",
+    "zh": "Certificate Authority · 证书颁发机构",
+    "group": "七、网络安全",
+    "ipa": "/ˈkɑ/",
+    "audio": "audio/ca.mp3"
+  },
+  {
+    "en": "PKI",
+    "zh": "Public Key Infrastructure · 公钥基础设施",
+    "group": "七、网络安全",
+    "ipa": "/piː keɪ aɪ/",
+    "audio": "audio/pki.mp3"
+  },
+  {
+    "en": "IPSec",
+    "zh": "Internet Protocol Security · 互联网协议安全",
+    "group": "七、网络安全",
+    "ipa": "/ˌaɪ piː ˈsɛk/",
+    "audio": "audio/ipsec.mp3"
+  },
+  {
+    "en": "SSL/TLS",
+    "zh": "安全套接层/传输层安全",
+    "group": "七、网络安全",
+    "ipa": "/es es el/ /tiː el es/",
+    "audio": "audio/ssl_tls.mp3"
+  },
+  {
+    "en": "ACL",
+    "zh": "Access Control List · 访问控制列表",
+    "group": "七、网络安全",
+    "ipa": "/eɪ siː el/",
+    "audio": "audio/acl.mp3"
+  },
+  {
+    "en": "virus",
+    "zh": "病毒",
+    "group": "七、网络安全",
+    "ipa": "/vˈaɪɹəs/",
+    "audio": "audio/virus.mp3"
+  },
+  {
+    "en": "worm",
+    "zh": "蠕虫",
+    "group": "七、网络安全",
+    "ipa": "/wˈɜːm/",
+    "audio": "audio/worm.mp3"
+  },
+  {
+    "en": "Trojan horse",
+    "zh": "木马",
+    "group": "七、网络安全",
+    "ipa": "/ˈtɹoʊdʒən/ /hˈɔːs/",
+    "audio": "audio/trojan_horse.mp3"
+  },
+  {
+    "en": "spyware",
+    "zh": "间谍软件",
+    "group": "七、网络安全",
+    "ipa": "/ˈspaɪˌwɛɹ/",
+    "audio": "audio/spyware.mp3"
+  },
+  {
+    "en": "ransomware",
+    "zh": "勒索软件",
+    "group": "七、网络安全",
+    "ipa": "/ˈrænsəmwɛə/",
+    "audio": "audio/ransomware.mp3"
+  },
+  {
+    "en": "phishing",
+    "zh": "钓鱼攻击",
+    "group": "七、网络安全",
+    "ipa": "/fˈɪʃɪŋ/",
+    "audio": "audio/phishing.mp3"
+  },
+  {
+    "en": "DoS",
+    "zh": "Denial of Service · 拒绝服务",
+    "group": "七、网络安全",
+    "ipa": "/dˈɒs/",
+    "audio": "audio/dos.mp3"
+  },
+  {
+    "en": "DDoS",
+    "zh": "Distributed Denial of Service · 分布式拒绝服务",
+    "group": "七、网络安全",
+    "ipa": "/ˌdiː diː ˈɒs/",
+    "audio": "audio/ddos.mp3"
+  },
+  {
+    "en": "man-in-the-middle",
+    "zh": "中间人攻击",
+    "group": "七、网络安全",
+    "ipa": "/mˈæn/ /ˈɪn/ /ðə/ /mˈɪdəl/",
+    "audio": "audio/man_in_the_middle.mp3"
+  },
+  {
+    "en": "spoofing",
+    "zh": "欺骗",
+    "group": "七、网络安全",
+    "ipa": "/spˈuːfɪŋ/",
+    "audio": "audio/spoofing.mp3"
+  },
+  {
+    "en": "sniffing",
+    "zh": "嗅探",
+    "group": "七、网络安全",
+    "ipa": "/snˈɪfɪŋ/",
+    "audio": "audio/sniffing.mp3"
+  },
+  {
+    "en": "vulnerability",
+    "zh": "漏洞",
+    "group": "七、网络安全",
+    "ipa": "/vˌʌlnəɹəbˈɪlɪti/",
+    "audio": "audio/vulnerability.mp3"
+  },
+  {
+    "en": "exploit",
+    "zh": "漏洞利用",
+    "group": "七、网络安全",
+    "ipa": "/ˈɛksˌpɫɔɪt/",
+    "audio": "audio/exploit.mp3"
+  },
+  {
+    "en": "patch",
+    "zh": "补丁",
+    "group": "七、网络安全",
+    "ipa": "/pˈætʃ/",
+    "audio": "audio/patch.mp3"
+  },
+  {
+    "en": "threat",
+    "zh": "威胁",
+    "group": "七、网络安全",
+    "ipa": "/θɹˈɛt/",
+    "audio": "audio/threat.mp3"
+  },
+  {
+    "en": "risk",
+    "zh": "风险",
+    "group": "七、网络安全",
+    "ipa": "/ɹˈɪsk/",
+    "audio": "audio/risk.mp3"
+  },
+  {
+    "en": "DMZ",
+    "zh": "Demilitarized Zone · 隔离区",
+    "group": "七、网络安全",
+    "ipa": "/ˈdiˌɛmˌzi/",
+    "audio": "audio/dmz.mp3"
+  },
+  {
+    "en": "network management",
+    "zh": "网络管理",
+    "group": "八、网络管理",
+    "ipa": "/nˈɛtwɜːk/ /mˈænɪdʒmənt/",
+    "audio": "audio/network_management.mp3"
+  },
+  {
+    "en": "MIB",
+    "zh": "Management Information Base · 管理信息库",
+    "group": "八、网络管理",
+    "ipa": "/ˈmɪb/",
+    "audio": "audio/mib.mp3"
+  },
+  {
+    "en": "agent",
+    "zh": "代理",
+    "group": "八、网络管理",
+    "ipa": "/ˈeɪdʒənt/",
+    "audio": "audio/agent.mp3"
+  },
+  {
+    "en": "manager",
+    "zh": "管理器",
+    "group": "八、网络管理",
+    "ipa": "/mˈænɪdʒə/",
+    "audio": "audio/manager.mp3"
+  },
+  {
+    "en": "trap",
+    "zh": "陷阱，告警",
+    "group": "八、网络管理",
+    "ipa": "/tɹˈæp/",
+    "audio": "audio/trap.mp3"
+  },
+  {
+    "en": "FCAPS",
+    "zh": "Fault, Configuration, Accounting, Performance, Security · 故障、配置、计费、性能、安全",
+    "group": "八、网络管理",
+    "ipa": "/ef siː eɪ piː es/",
+    "audio": "audio/fcaps.mp3"
+  },
+  {
+    "en": "QoS",
+    "zh": "Quality of Service · 服务质量",
+    "group": "八、网络管理",
+    "ipa": "/ˌkjuː əʊ ˈɛs/",
+    "audio": "audio/qos.mp3"
+  },
+  {
+    "en": "CoS",
+    "zh": "服务类别",
+    "group": "八、网络管理",
+    "ipa": "/ˈkɔs/",
+    "audio": "audio/cos.mp3"
+  },
+  {
+    "en": "DiffServ",
+    "zh": "Differentiated Services · 区分服务",
+    "group": "八、网络管理",
+    "ipa": "/ˈdɪfsɜːv/",
+    "audio": "audio/diffserv.mp3"
+  },
+  {
+    "en": "IntServ",
+    "zh": "Integrated Services · 综合服务",
+    "group": "八、网络管理",
+    "ipa": "/ˈɪntsɜːv/",
+    "audio": "audio/intserv.mp3"
+  },
+  {
+    "en": "traffic shaping",
+    "zh": "流量整形",
+    "group": "八、网络管理",
+    "ipa": "/tɹˈæfɪk/ /ʃˈeɪpɪŋ/",
+    "audio": "audio/traffic_shaping.mp3"
+  },
+  {
+    "en": "traffic policing",
+    "zh": "流量监管",
+    "group": "八、网络管理",
+    "ipa": "/tɹˈæfɪk/ /pəlˈiːsɪŋ/",
+    "audio": "audio/traffic_policing.mp3"
+  },
+  {
+    "en": "load balancing",
+    "zh": "负载均衡",
+    "group": "八、网络管理",
+    "ipa": "/lˈəʊd/ /bˈælənsɪŋ/",
+    "audio": "audio/load_balancing.mp3"
+  },
+  {
+    "en": "SLA",
+    "zh": "Service Level Agreement · 服务等级协议",
+    "group": "八、网络管理",
+    "ipa": "/es el eɪ/",
+    "audio": "audio/sla.mp3"
+  },
+  {
+    "en": "bandwidth management",
+    "zh": "带宽管理",
+    "group": "八、网络管理",
+    "ipa": "/bˈændwɪdθ/ /mˈænɪdʒmənt/",
+    "audio": "audio/bandwidth_management.mp3"
+  },
+  {
+    "en": "Wi-Fi",
+    "zh": "无线保真",
+    "group": "九、无线与移动通信",
+    "ipa": "/ˈdʌbəljuː aɪ/ /ˈfaɪ/",
+    "audio": "audio/wi_fi.mp3"
+  },
+  {
+    "en": "Bluetooth",
+    "zh": "蓝牙",
+    "group": "九、无线与移动通信",
+    "ipa": "/ˈbɫuˌtuθ/",
+    "audio": "audio/bluetooth.mp3"
+  },
+  {
+    "en": "ZigBee",
+    "zh": "紫蜂协议",
+    "group": "九、无线与移动通信",
+    "ipa": "/ˈzɪɡbiː/",
+    "audio": "audio/zigbee.mp3"
+  },
+  {
+    "en": "NFC",
+    "zh": "近场通信",
+    "group": "九、无线与移动通信",
+    "ipa": "/ˈɛˈnɛfˈsi/",
+    "audio": "audio/nfc.mp3"
+  },
+  {
+    "en": "LTE",
+    "zh": "Long Term Evolution · 长期演进",
+    "group": "九、无线与移动通信",
+    "ipa": "/el tiː iː/",
+    "audio": "audio/lte.mp3"
+  },
+  {
+    "en": "5G",
+    "zh": "Fifth Generation · 第五代移动通信",
+    "group": "九、无线与移动通信",
+    "ipa": "/faɪv dʒiː/",
+    "audio": "audio/5g.mp3"
+  },
+  {
+    "en": "wireless controller",
+    "zh": "无线控制器",
+    "group": "九、无线与移动通信",
+    "ipa": "/wˈaɪələs/ /kəntɹˈəʊlə/",
+    "audio": "audio/wireless_controller.mp3"
+  },
+  {
+    "en": "roaming",
+    "zh": "漫游",
+    "group": "九、无线与移动通信",
+    "ipa": "/ɹˈəʊmɪŋ/",
+    "audio": "audio/roaming.mp3"
+  },
+  {
+    "en": "BSSID",
+    "zh": "基本服务集标识",
+    "group": "九、无线与移动通信",
+    "ipa": "/biː es es aɪ diː/",
+    "audio": "audio/bssid.mp3"
+  },
+  {
+    "en": "WEP",
+    "zh": "Wired Equivalent Privacy · 有线等效保密",
+    "group": "九、无线与移动通信",
+    "ipa": "/ˈdʌbəljuː iː piː/",
+    "audio": "audio/wep.mp3"
+  },
+  {
+    "en": "WPA",
+    "zh": "Wi-Fi Protected Access · Wi-Fi 保护访问",
+    "group": "九、无线与移动通信",
+    "ipa": "/ˈdʌbəljuː piː eɪ/",
+    "audio": "audio/wpa.mp3"
+  },
+  {
+    "en": "WPA2",
+    "zh": "Wi-Fi Protected Access 2 · Wi-Fi 保护访问 2",
+    "group": "九、无线与移动通信",
+    "ipa": "/ˈdʌbəljuː piː eɪ tuː/",
+    "audio": "audio/wpa2.mp3"
+  },
+  {
+    "en": "WPA3",
+    "zh": "Wi-Fi Protected Access 3 · Wi-Fi 保护访问 3",
+    "group": "九、无线与移动通信",
+    "ipa": "/ˈdʌbəljuː piː eɪ θriː/",
+    "audio": "audio/wpa3.mp3"
+  },
+  {
+    "en": "AES",
+    "zh": "Advanced Encryption Standard · 高级加密标准",
+    "group": "九、无线与移动通信",
+    "ipa": "/eɪ iː es/",
+    "audio": "audio/aes.mp3"
+  },
+  {
+    "en": "TKIP",
+    "zh": "Temporal Key Integrity Protocol · 临时密钥完整性协议",
+    "group": "九、无线与移动通信",
+    "ipa": "/tiː keɪ aɪ piː/",
+    "audio": "audio/tkip.mp3"
+  },
+  {
+    "en": "channel",
+    "zh": "信道",
+    "group": "九、无线与移动通信",
+    "ipa": "/tʃˈænəl/",
+    "audio": "audio/channel.mp3"
+  },
+  {
+    "en": "frequency band",
+    "zh": "频段",
+    "group": "九、无线与移动通信",
+    "ipa": "/fɹˈiːkwənsi/ /bˈænd/",
+    "audio": "audio/frequency_band.mp3"
+  },
+  {
+    "en": "2.4 GHz",
+    "zh": "2.4 吉赫兹",
+    "group": "九、无线与移动通信",
+    "ipa": "/tuː pɔɪnt fɔː/ /ˈɡɪɡəhɜːts/",
+    "audio": "audio/2_4_ghz.mp3"
+  },
+  {
+    "en": "5 GHz",
+    "zh": "5 吉赫兹",
+    "group": "九、无线与移动通信",
+    "ipa": "/faɪv/ /ˈɡɪɡəhɜːts/",
+    "audio": "audio/5_ghz.mp3"
+  },
+  {
+    "en": "MIMO",
+    "zh": "Multiple Input Multiple Output · 多入多出",
+    "group": "九、无线与移动通信",
+    "ipa": "/em aɪ em oʊ/",
+    "audio": "audio/mimo.mp3"
+  },
+  {
+    "en": "OFDM",
+    "zh": "Orthogonal Frequency Division Multiplexing · 正交频分复用",
+    "group": "九、无线与移动通信",
+    "ipa": "/oʊ ef diː em/",
+    "audio": "audio/ofdm.mp3"
+  },
+  {
+    "en": "DSSS",
+    "zh": "直接序列扩频",
+    "group": "九、无线与移动通信",
+    "ipa": "/diː es es es/",
+    "audio": "audio/dsss.mp3"
+  },
+  {
+    "en": "FHSS",
+    "zh": "跳频扩频",
+    "group": "九、无线与移动通信",
+    "ipa": "/ef eɪtʃ es es/",
+    "audio": "audio/fhss.mp3"
+  },
+  {
+    "en": "cloud computing",
+    "zh": "云计算",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/klˈaʊd/ /kəmpjˈuːtɪŋ/",
+    "audio": "audio/cloud_computing.mp3"
+  },
+  {
+    "en": "IaaS",
+    "zh": "Infrastructure as a Service · 基础设施即服务",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/aɪ æs/",
+    "audio": "audio/iaas.mp3"
+  },
+  {
+    "en": "PaaS",
+    "zh": "Platform as a Service · 平台即服务",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/pæs/",
+    "audio": "audio/paas.mp3"
+  },
+  {
+    "en": "SaaS",
+    "zh": "Software as a Service · 软件即服务",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/ˈsɑs/",
+    "audio": "audio/saas.mp3"
+  },
+  {
+    "en": "virtualization",
+    "zh": "虚拟化",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/ˌvɜːtʃuəlaɪˈzeɪʃən/",
+    "audio": "audio/virtualization.mp3"
+  },
+  {
+    "en": "virtual machine",
+    "zh": "虚拟机",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/vˈɜːtʃuːəl/ /məʃˈiːn/",
+    "audio": "audio/virtual_machine.mp3"
+  },
+  {
+    "en": "hypervisor",
+    "zh": "虚拟机监控器",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/ˈhaɪpəvaɪzə/",
+    "audio": "audio/hypervisor.mp3"
+  },
+  {
+    "en": "container",
+    "zh": "容器",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/kəntˈeɪnə/",
+    "audio": "audio/container.mp3"
+  },
+  {
+    "en": "Docker",
+    "zh": "Docker 容器技术",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/dˈɒkə/",
+    "audio": "audio/docker.mp3"
+  },
+  {
+    "en": "Kubernetes",
+    "zh": "Kubernetes 容器编排平台",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/kuːbəˈnɛtiːz/",
+    "audio": "audio/kubernetes.mp3"
+  },
+  {
+    "en": "SDN",
+    "zh": "Software-Defined Networking · 软件定义网络",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/ˈɛsˈdiˈɛn/",
+    "audio": "audio/sdn.mp3"
+  },
+  {
+    "en": "NFV",
+    "zh": "Network Functions Virtualization · 网络功能虚拟化",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/en ef viː/",
+    "audio": "audio/nfv.mp3"
+  },
+  {
+    "en": "overlay network",
+    "zh": "叠加网络",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/ˈoʊvɝˌɫeɪ/ /nˈɛtwɜːk/",
+    "audio": "audio/overlay_network.mp3"
+  },
+  {
+    "en": "underlay network",
+    "zh": "底层网络",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/nˈɛtwɜːk/",
+    "audio": "audio/underlay_network.mp3"
+  },
+  {
+    "en": "data center",
+    "zh": "数据中心",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/dˈeɪtə/ /sˈɛntə/",
+    "audio": "audio/data_center.mp3"
+  },
+  {
+    "en": "server",
+    "zh": "服务器",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/sˈɜːvə/",
+    "audio": "audio/server.mp3"
+  },
+  {
+    "en": "storage",
+    "zh": "存储",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/stˈɔːɹɪdʒ/",
+    "audio": "audio/storage.mp3"
+  },
+  {
+    "en": "NAS",
+    "zh": "Network Attached Storage · 网络附加存储",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/en eɪ es/",
+    "audio": "audio/nas.mp3"
+  },
+  {
+    "en": "SAN",
+    "zh": "Storage Area Network · 存储区域网络",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/ˈsæn/",
+    "audio": "audio/san.mp3"
+  },
+  {
+    "en": "RAID",
+    "zh": "Redundant Array of Independent Disks · 独立磁盘冗余阵列",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/ɹˈeɪd/",
+    "audio": "audio/raid.mp3"
+  },
+  {
+    "en": "edge computing",
+    "zh": "边缘计算",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/ˈɛdʒ/ /kəmpjˈuːtɪŋ/",
+    "audio": "audio/edge_computing.mp3"
+  },
+  {
+    "en": "IoT",
+    "zh": "Internet of Things · 物联网",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/ˌaɪ əʊ ˈtiː/",
+    "audio": "audio/iot.mp3"
+  },
+  {
+    "en": "big data",
+    "zh": "大数据",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/bˈɪɡ/ /dˈeɪtə/",
+    "audio": "audio/big_data.mp3"
+  },
+  {
+    "en": "AI",
+    "zh": "人工智能",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/ˌeɪˈaɪ/",
+    "audio": "audio/ai.mp3"
+  },
+  {
+    "en": "blockchain",
+    "zh": "区块链",
+    "group": "十、云计算、数据中心与新技术",
+    "ipa": "/ˈbɫɑkˈtʃeɪn/",
+    "audio": "audio/blockchain.mp3"
+  },
+  {
+    "en": "OSI",
+    "zh": "Open Systems Interconnection · 开放系统互连",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/oʊ es aɪ/",
+    "audio": "audio/osi.mp3"
+  },
+  {
+    "en": "ISO",
+    "zh": "International Organization for Standardization · 国际标准化组织",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/aɪ es oʊ/",
+    "audio": "audio/iso.mp3"
+  },
+  {
+    "en": "IP",
+    "zh": "Internet Protocol · 互联网协议",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/ˈaɪˈpi/",
+    "audio": "audio/ip.mp3"
+  },
+  {
+    "en": "SSL",
+    "zh": "Secure Sockets Layer · 安全套接层",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/es es el/",
+    "audio": "audio/ssl.mp3"
+  },
+  {
+    "en": "TLS",
+    "zh": "Transport Layer Security · 传输层安全",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/tiː el es/",
+    "audio": "audio/tls.mp3"
+  },
+  {
+    "en": "RSTP",
+    "zh": "Rapid Spanning Tree Protocol · 快速生成树协议",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/ɑːr es tiː piː/",
+    "audio": "audio/rstp.mp3"
+  },
+  {
+    "en": "MSTP",
+    "zh": "Multiple Spanning Tree Protocol · 多生成树协议",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/em es tiː piː/",
+    "audio": "audio/mstp.mp3"
+  },
+  {
+    "en": "VTP",
+    "zh": "VLAN Trunking Protocol · VLAN 干道协议",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/viː tiː piː/",
+    "audio": "audio/vtp.mp3"
+  },
+  {
+    "en": "GVRP",
+    "zh": "GARP VLAN Registration Protocol · GARP VLAN 注册协议",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/dʒiː viː ɑːr piː/",
+    "audio": "audio/gvrp.mp3"
+  },
+  {
+    "en": "MAC",
+    "zh": "Media Access Control · 介质访问控制",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/mˈæk/",
+    "audio": "audio/mac.mp3"
+  },
+  {
+    "en": "CSMA/CA",
+    "zh": "Carrier Sense Multiple Access with Collision Avoidance · 载波监听多路访问/冲突避免",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/siː es em eɪ/ /ˈkɑ/",
+    "audio": "audio/csma_ca.mp3"
+  },
+  {
+    "en": "RADIUS",
+    "zh": "Remote Authentication Dial-In User Service · 远程认证拨入用户服务",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/ɹˈeɪdɪəs/",
+    "audio": "audio/radius.mp3"
+  },
+  {
+    "en": "TACACS+",
+    "zh": "Terminal Access Controller Access Control System Plus · 增强型终端访问控制器访问控制系统",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/tiː eɪ siː eɪ siː es/",
+    "audio": "audio/tacacs_.mp3"
+  },
+  {
+    "en": "RSA",
+    "zh": "Rivest-Shamir-Adleman · RSA 加密算法",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/ɑːr es eɪ/",
+    "audio": "audio/rsa.mp3"
+  },
+  {
+    "en": "DES",
+    "zh": "Data Encryption Standard · 数据加密标准",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/ˈdɛs/",
+    "audio": "audio/des.mp3"
+  },
+  {
+    "en": "3DES",
+    "zh": "Triple DES · 三重数据加密标准",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/θriː diː iː es/",
+    "audio": "audio/3des.mp3"
+  },
+  {
+    "en": "MD5",
+    "zh": "Message Digest Algorithm 5 · 消息摘要算法第5版",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/em diː faɪv/",
+    "audio": "audio/md5.mp3"
+  },
+  {
+    "en": "SHA",
+    "zh": "Secure Hash Algorithm · 安全哈希算法",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/ˈʃɑ/",
+    "audio": "audio/sha.mp3"
+  },
+  {
+    "en": "MPLS",
+    "zh": "Multiprotocol Label Switching · 多协议标签交换",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/em piː el es/",
+    "audio": "audio/mpls.mp3"
+  },
+  {
+    "en": "VM",
+    "zh": "Virtual Machine · 虚拟机",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/viː em/",
+    "audio": "audio/vm.mp3"
+  },
+  {
+    "en": "VXLAN",
+    "zh": "Virtual Extensible LAN · 虚拟可扩展局域网",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/viː eks el eɪ en/",
+    "audio": "audio/vxlan.mp3"
+  },
+  {
+    "en": "MTU",
+    "zh": "Maximum Transmission Unit · 最大传输单元",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/em tiː juː/",
+    "audio": "audio/mtu.mp3"
+  },
+  {
+    "en": "TTL",
+    "zh": "Time To Live · 生存时间",
+    "group": "十一、高频缩略词及全称（部分）",
+    "ipa": "/tiː tiː el/",
+    "audio": "audio/ttl.mp3"
+  },
+  {
+    "en": "establish a connection",
+    "zh": "建立连接",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/ɪstˈæblɪʃ/ /ˈeɪ/ /kənˈɛkʃən/",
+    "audio": "audio/establish_a_connection.mp3"
+  },
+  {
+    "en": "release a connection",
+    "zh": "释放连接",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/ɹiˈɫis/ /ˈeɪ/ /kənˈɛkʃən/",
+    "audio": "audio/release_a_connection.mp3"
+  },
+  {
+    "en": "forward packets",
+    "zh": "转发数据包",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/fˈɔːwəd/ /pˈækɪts/",
+    "audio": "audio/forward_packets.mp3"
+  },
+  {
+    "en": "route packets based on destination address",
+    "zh": "根据目的地址路由数据包",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/ɹˈuːt/ /pˈækɪts/ /bˈeɪst/ /ˈɒn/ /dˌɛstɪnˈeɪʃən/ /ˈæˌdɹɛs/",
+    "audio": "audio/route_packets_based_on_destination_address.mp3"
+  },
+  {
+    "en": "encapsulate data into frames",
+    "zh": "将数据封装成帧",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/ɛnkˈæpsjʊlˌeɪt/ /dˈeɪtə/ /ˈɪntʊ/ /fɹˈeɪmz/",
+    "audio": "audio/encapsulate_data_into_frames.mp3"
+  },
+  {
+    "en": "decapsulate frames",
+    "zh": "解封装帧",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/fɹˈeɪmz/",
+    "audio": "audio/decapsulate_frames.mp3"
+  },
+  {
+    "en": "resolve IP address to MAC address",
+    "zh": "将 IP 地址解析为 MAC 地址",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/ɹiˈzɑɫv/ /ˈaɪˈpi/ /ˈæˌdɹɛs/ /tˈuː/ /mˈæk/ /ˈæˌdɹɛs/",
+    "audio": "audio/resolve_ip_address_to_mac_address.mp3"
+  },
+  {
+    "en": "dynamically assign IP addresses",
+    "zh": "动态分配 IP 地址",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/daɪnˈæmɪkli/ /əsˈaɪn/ /ˈaɪˈpi/ /ədɹˈɛsɪz/",
+    "audio": "audio/dynamically_assign_ip_addresses.mp3"
+  },
+  {
+    "en": "translate private addresses to public addresses",
+    "zh": "将私有地址转换为公有地址",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/tɹænslˈeɪt/ /pɹˈaɪvət/ /ədɹˈɛsɪz/ /tˈuː/ /pˈʌblɪk/ /ədɹˈɛsɪz/",
+    "audio": "audio/translate_private_addresses_to_public_addresses.mp3"
+  },
+  {
+    "en": "authenticate users",
+    "zh": "认证用户",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/ɔːθˈɛntɪkˌeɪt/ /jˈuːzəz/",
+    "audio": "audio/authenticate_users.mp3"
+  },
+  {
+    "en": "encrypt data",
+    "zh": "加密数据",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/ɛnkɹˈɪpt/ /dˈeɪtə/",
+    "audio": "audio/encrypt_data.mp3"
+  },
+  {
+    "en": "ensure data integrity",
+    "zh": "确保数据完整性",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/ɛnʃˈɔː/ /dˈeɪtə/ /ɪntˈɛɡɹɪti/",
+    "audio": "audio/ensure_data_integrity.mp3"
+  },
+  {
+    "en": "provide confidentiality",
+    "zh": "提供机密性",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/pɹəvˈaɪd/ /kˌɒnfɪdˈɛnʃɪˈælɪti/",
+    "audio": "audio/provide_confidentiality.mp3"
+  },
+  {
+    "en": "prevent unauthorized access",
+    "zh": "防止未授权访问",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/pɹɪvˈɛnt/ /əˈnɔθɝˌaɪzd/ /ˈæksɛs/",
+    "audio": "audio/prevent_unauthorized_access.mp3"
+  },
+  {
+    "en": "detect and prevent intrusions",
+    "zh": "检测并防止入侵",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/dɪtˈɛkt/ /ˈænd/ /pɹɪvˈɛnt/ /ɪntɹˈuːʒənz/",
+    "audio": "audio/detect_and_prevent_intrusions.mp3"
+  },
+  {
+    "en": "monitor network performance",
+    "zh": "监控网络性能",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/mˈɒnɪtə/ /nˈɛtwɜːk/ /pəfˈɔːməns/",
+    "audio": "audio/monitor_network_performance.mp3"
+  },
+  {
+    "en": "allocate bandwidth",
+    "zh": "分配带宽",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/ˈæləkˌeɪt/ /bˈændwɪdθ/",
+    "audio": "audio/allocate_bandwidth.mp3"
+  },
+  {
+    "en": "prioritize traffic",
+    "zh": "对流量划分优先级",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/pɹaɪˈɔɹəˌtaɪz/ /tɹˈæfɪk/",
+    "audio": "audio/prioritize_traffic.mp3"
+  },
+  {
+    "en": "guarantee quality of service",
+    "zh": "保证服务质量",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/ɡˌæɹɑːntˈiː/ /kwˈɒlɪti/ /ˈɒv/ /sˈɜːvɪs/",
+    "audio": "audio/guarantee_quality_of_service.mp3"
+  },
+  {
+    "en": "balance load among servers",
+    "zh": "在服务器之间均衡负载",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/bˈæləns/ /lˈəʊd/ /əmˈʌŋ/ /sˈɜːvəz/",
+    "audio": "audio/balance_load_among_servers.mp3"
+  },
+  {
+    "en": "virtualize network functions",
+    "zh": "虚拟化网络功能",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/nˈɛtwɜːk/ /fˈʌŋkʃənz/",
+    "audio": "audio/virtualize_network_functions.mp3"
+  },
+  {
+    "en": "scale up / scale out",
+    "zh": "纵向扩展 / 横向扩展",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/skˈeɪl/ /ˈʌp/ /skˈeɪl/ /ˈaʊt/",
+    "audio": "audio/scale_up_scale_out.mp3"
+  },
+  {
+    "en": "be referred to as",
+    "zh": "被称为",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/bˈiː/ /ɹɪfˈɜːd/ /tˈuː/ /ˈæz/",
+    "audio": "audio/be_referred_to_as.mp3"
+  },
+  {
+    "en": "consist of",
+    "zh": "由……组成",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/kənˈsɪst/ /ˈɒv/",
+    "audio": "audio/consist_of.mp3"
+  },
+  {
+    "en": "be responsible for",
+    "zh": "负责……",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/bˈiː/ /ɹɪspˈɒnsəbəl/ /fˈɔː/",
+    "audio": "audio/be_responsible_for.mp3"
+  },
+  {
+    "en": "be used to do sth",
+    "zh": "被用来做……",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/bˈiː/ /ˈjuzd/ /tˈuː/ /ˈdu/",
+    "audio": "audio/be_used_to_do_sth.mp3"
+  },
+  {
+    "en": "in order to",
+    "zh": "为了",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/ˈɪn/ /ˈɔːdə/ /tˈuː/",
+    "audio": "audio/in_order_to.mp3"
+  },
+  {
+    "en": "compared with",
+    "zh": "与……相比",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/kəmpˈeəd/ /wˈɪð/",
+    "audio": "audio/compared_with.mp3"
+  },
+  {
+    "en": "such as",
+    "zh": "例如",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/sˈʌtʃ/ /ˈæz/",
+    "audio": "audio/such_as.mp3"
+  },
+  {
+    "en": "as well as",
+    "zh": "以及，也",
+    "group": "十二、常考固定搭配和表达",
+    "ipa": "/ˈæz/ /wˈɛl/ /ˈæz/",
+    "audio": "audio/as_well_as.mp3"
+  }
+]
