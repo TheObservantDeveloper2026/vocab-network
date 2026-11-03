@@ -118,7 +118,6 @@
     height: 340px;
     transform-style: preserve-3d;
     transition: transform .45s cubic-bezier(.2,.7,.3,1);
-    cursor: pointer;
   }
   .card.flipped { transform: rotateY(180deg); }
   .face {
@@ -478,7 +477,7 @@
 </head>
 <body>
 <header>
-  <h1>英语词汇卡 <small>点击卡片 · 看英文想中文</small></h1>
+  <h1>英语词汇卡 <small>看英文想中文</small></h1>
   <div class="toolbar">
     <select id="groupSel"></select>
     <button class="btn-ghost" id="btnShuffle">洗牌</button>
@@ -512,7 +511,7 @@
             <div class="example ex-front" id="exWrapF" hidden>
               <div class="ex-en" id="exEnF"></div>
             </div>
-            <div class="hint">想一想中文意思，点击卡片查看</div>
+            <div class="hint">想一想中文意思，点击下方按钮查看</div>
             <span class="pos" id="posFront"></span>
             <span class="pos left" id="cardMeta"></span>
           </div>
@@ -945,7 +944,6 @@ function afterAnswer() {
   render();
   $('actions').style.visibility = '';
 }
-$('card').onclick = flip;
 $('btnFlip').onclick = flip;
 // 正常模式：认识=加入已掌握；错题本：答对=从错题本消除
 $('btnKnown').onclick = () => {
@@ -1252,7 +1250,6 @@ function answer(g) {
   session.cur++;
   renderLearnCard();
 }
-$('card').onclick = flip;
 $('btnFlip').onclick = flip;
 $('btnAgain').onclick = () => answer(0);
 $('btnHard').onclick = () => answer(1);
